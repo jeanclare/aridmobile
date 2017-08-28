@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PregnancyPlus</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="signup">SignUp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="name">Username</string>
+    <string name="btnlogin">Login</string>
+    <string name="enter_username">Enter username</string>
+    <string name="SUBMIT">\@string/submit</string>
+    <string name="Location">\@string/location</string>
+    <string name="Username">\@string/user</string>
+    <string name="Phone_Number">\@string/phone</string>
+    <string name="Password">\@string/password</string>
+    <string name="Current_Location">\@string/loc</string>
+    <string name="User_name">\@string/username</string>
+</resources>
