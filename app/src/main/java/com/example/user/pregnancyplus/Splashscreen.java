@@ -19,6 +19,7 @@ public class Splashscreen extends AppCompatActivity {
                 }finally{
                     Intent openMainActivity= new Intent(Splashscreen.this, LoginActivity.class);
                     startActivity(openMainActivity);
+                    finish();
                 }
             }
         };

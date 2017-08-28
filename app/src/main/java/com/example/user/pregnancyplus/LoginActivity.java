@@ -34,7 +34,7 @@ public class LoginActivity extends AppCompatActivity {
 //        switch (v.getId()){
 //
 //            case R.id.btnsignup:
-////               startActivity(new Intent(this, SignUp.class));
+
 //                break;
 //
 //            case R.id.btnlogout:
